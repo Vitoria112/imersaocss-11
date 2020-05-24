@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://1.bp.blogspot.com/-94yXJxp1Zhc/XbtzP7mkcuI/AAAAAAAAeD8/0q5ZHJzi_8Ewqqd70l7uDgllIc-nQKyogCLcBGAsYHQ/s2560/fox-sky-4k-if-2560x1440.jpg);
+    background-size: ;
+    font-family: arial;
+  }
+  
+  .menu ul {
+    background-color:;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  A
+  .menu ul{
+    display:flex;
+    justify-content: space-between;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    color: black;
+  }
